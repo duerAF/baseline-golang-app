@@ -1,5 +1,7 @@
 # baseline-golang-app
 
+Test build
+
 
 ## 1. Build the Docker images
 
